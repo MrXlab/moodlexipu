@@ -10,7 +10,7 @@ Moodle is designed to allow educators, administrators and learners to create per
 
 ## Documentation
 
-- Read the [local installation guide](INSTALL.txt) before setting up a development site.
+- See the [installation summary](INSTALL.txt) for the basic Moodle setup steps.
 - Read our [User documentation][3]
 - Discover our [developer documentation][5]
 - Take a look at our [demo site][4]
